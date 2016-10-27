@@ -1,4 +1,4 @@
-# yatdl
+# Yet Another To-Do List (YATDL) 
 RESTful API demo build with Docker and Node
 
 ## Usage
